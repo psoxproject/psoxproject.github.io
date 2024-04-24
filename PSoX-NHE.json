@@ -1,0 +1,139 @@
+{
+  "title": "PSoX NH Edition",
+  "props": {
+    "psx_bios": [
+      "https://github.com/gingerbeardman/PSX/raw/master/PSXONPSP660.BIN"
+    ]
+  },
+  "categories": [
+    {
+      "title": "PSoX Library",
+      "items": [
+        {
+          "props": {
+            "discs": [
+              "https://fastupload.io/zdlpFddRlIoN/bKrKgPesyYmIL4C/ex5z20WynmKqk/Gran%20Turismo%202%20%28USA%29%20%28Arcade%20Mode%29%20%28Rev%201%29.chd"
+            ],
+            "sbi": [],
+            "uid": "00ce9a1c-e5c4-4b94-933b-4fb656e974a2"
+          },
+          "type": "psx",
+          "longTitle": "Gran Turismo 2 - PSoX Library",
+          "title": "Gran Turismo 2",
+          "description": "Second game in the Gran Turismo series of racing games exclusively for the PlayStation. Features 20  tracks and over 400 vehicles! It features an arcade mode and a simulation mode, and also supports wild two player split screen racing!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Gran%20Turismo%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Disc%201)%20(Arcade%20Mode).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gran%20Turismo%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Disc%201)%20(Arcade%20Mode).png",
+          "backgroundPixelated": true,
+          "added": 1713977919340
+        }
+      ],
+      "longTitle": "PlayStation on Xbox Library (PSoX)",
+      "description": "PlayStation on Xbox Library (PSoX)",
+      "thumbnail": "https://assets.turbologo.com/blog/en/2021/07/07075142/PlayStation-logo-1994.png",
+      "background": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/e3bc38bf-b82a-4ce8-8719-5c3c1a9c262e/dfqvphx-7b74a9b4-2f89-4016-97e0-e79bbcc1b806.jpg"
+    },
+    {
+      "title": "NESoX Library",
+      "longTitle": "NES on Xbox (NESoX)",
+      "description": "Official NES Games for the Xbox",
+      "thumbnail": "https://gameship.com.au/cdn/shop/collections/Nintendo-Entertainment-System-Logo_1200x1200.jpg?v=1590972982",
+      "background": "https://wallpapers.com/images/hd/nes-controller-in-gray-with-lines-eqd1bigu15mzupie.jpg",
+      "items": [
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/mnbnb55k3lv1qauc8tuin/Super-Mario-Bros.-World.nes?rlkey=v3sspj2nbrtvis07i69ym11do&dl=0"
+          },
+          "type": "nes",
+          "longTitle": "Super Mario Bros - NESoX Library",
+          "title": "Super Mario Bros.",
+          "description": "Do you have what it takes to save the Mushroom Princess?  You'll have to think fast and move even faster to complete this quest!  The Mushroom Princess is being held captive by the evil Koopa tribe of turtles.  It's up to you to rescue her from the clutches of the Koopa King before time runs out.  But it won't be easy.  To get to the Princess, you'll have to climb mountains, cross seas, avoid bottomless pits, fight off turtle soldiers and a host of black magic traps that only a Koopa King can devise.  It's another non-stop adventure from the Super Mario Bros.!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Titles/resized/Super%20Mario%20Bros.%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-nes-images/master/Named_Snaps/output/Super%20Mario%20Bros.%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1713978013767
+        }
+      ]
+    },
+    {
+      "title": "N64oX Library",
+      "longTitle": "Nintendo64 on Xbox Library (N64oX)",
+      "description": "N64oX Library ",
+      "thumbnail": "https://1000logos.net/wp-content/uploads/2017/07/N64-Logo.png",
+      "background": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cfaac04b-38ee-4f3b-9b98-fe2d477531d4/d7fhf75-7bc4d4de-ff46-43ff-b884-4b87d0a1b020.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NmYWFjMDRiLTM4ZWUtNGYzYi05Yjk4LWZlMmQ0Nzc1MzFkNFwvZDdmaGY3NS03YmM0ZDRkZS1mZjQ2LTQzZmYtYjg4NC00Yjg3ZDBhMWIwMjAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Nz5Ek61TbLdNQaNblwEbtsG_g8TKTxyGrUgnEZqw4JM",
+      "items": [
+        {
+          "props": {
+            "rom": "https://fastupload.io/R8Xte7otjAgs/4tGtHTIHxF5YP1Q/LJlGnpjM6315w/Mario%20Kart%2064%20%28E%29%20%28V1.1%29%20%5B!%5D.z64"
+          },
+          "type": "n64",
+          "title": "Mario Kart 64",
+          "description": "Three Two One GO!  The signal light changes and you drop the pedal to the metal.  Take on up to three friends in the split-screen VS games, or race solo in the Mario GP.  Tell your friends to bring it on in the highly competitive Battle mode.  Advanced features allow you to race with your \"Ghost\".  The driving data from your best run appears as a transparent character on the screen.  No longer must you simply race against the clock -- you can actually race against yourself!\n\n* Save your hottest Ghost data to a portable N64 Controller Pak!\n* Collect multiple power-up items!\n* Twenty different courses -- 4 Cups with 4 courses each and 4 special Battle mode courses!\n* Everyone's favorite characters are back and gorgeously rendered, including two new additions, Donkey Kong and Wario!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Titles/resized/Mario%20Kart%2064%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-n64-images/master/Named_Snaps/output/Mario%20Kart%2064%20(Europe).png",
+          "backgroundPixelated": true,
+          "longTitle": "Mario Kart 64 - N64oX Library",
+          "added": 1713994327275
+        }
+      ]
+    },
+    {
+      "title": "GBAoX Library",
+      "longTitle": "GameBoy Advance on Xbox Library (GBAoX)",
+      "description": "GameBoy Advance on Xbox (GBAoX)",
+      "thumbnail": "https://www.nintendo.com/eu/media/images/10_share_images/support_9/H2x1_GameBoyAdvance_support_no_logo.jpg",
+      "background": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e3bc38bf-b82a-4ce8-8719-5c3c1a9c262e/dfqtkrd-cd50fa15-5d0f-4c7c-91ce-1ef365263c21.png/v1/fill/w_1280,h_720,q_80,strp/game_boy_advance_logo_wallpaper_by_sambox436_dfqtkrd-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZTNiYzM4YmYtYjgyYS00Y2U4LTg3MTktNWMzYzFhOWMyNjJlXC9kZnF0a3JkLWNkNTBmYTE1LTVkMGYtNGM3Yy05MWNlLTFlZjM2NTI2M2MyMS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.XlMxHsVqnPdLYe2g87CFKtE_migzpGx9HLp0UGGJWyk",
+      "items": [
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/7a9kf2hg0ikdh5txigv64/Metroid-Fusion-USA.gba?rlkey=hu8mfiwqghftsuaihm64phrc8&dl=0"
+          },
+          "type": "gba",
+          "title": "Metroid Fusion",
+          "description": "Samus Aran returns in an all-new Metroid adventure!\n\nWhile lending mission support on planet SR388, interstellar bounty hunter Samus Aran is attacked by an X parasite, an organism with the ability to mimic the abilities of any creature it infects. Near death, Samus is saved by a vaccine made from the DNA of the last Metroid -- the X parasite's only natural predator. When the X spread to a research station in orbit around SR388, a weakened Samus is forced to exterminate them all ... or die trying.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Metroid%20Fusion%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Metroid%20Fusion%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "longTitle": "Metroid Fusion - GBAoX Library",
+          "added": 1713979851819
+        }
+      ]
+    },
+    {
+      "title": "A26oX Library (HBS)",
+      "longTitle": "Atari 2600 on Xbox Library (HomeBrew Support)",
+      "description": "Atari 2600 on Xbox Library (HomeBrew Support)",
+      "thumbnail": "https://logowik.com/content/uploads/images/atari-26008865.jpg",
+      "background": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35158b15-0693-4e62-9057-bed12151fca8/dbgmv27-e0f1802b-4d5b-4c2f-88a4-0633db649cc3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM1MTU4YjE1LTA2OTMtNGU2Mi05MDU3LWJlZDEyMTUxZmNhOFwvZGJnbXYyNy1lMGYxODAyYi00ZDViLTRjMmYtODhhNC0wNjMzZGI2NDljYzMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.vweN-YYWdEcVpuOY5qniDdgtUhDDwWy6rpqpTf2tWY4",
+      "items": [
+        {
+          "props": {
+            "rom": "https://github.com/cleak/FlappyBoot/raw/master/boot.bin"
+          },
+          "type": "2600",
+          "title": "Flappy Bird (HB)",
+          "description": "Flappy Bird (HB) -A26oX Library",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Titles/resized/Flappy%20Bird.png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-gba-images/master/Named_Snaps/output/Flappy%20Bird.png",
+          "backgroundPixelated": true,
+          "longTitle": "Flappy Bird (HB) -A26oX Library",
+          "added": 1713982083886
+        },
+        {
+          "props": {
+            "rom": "https://www.dropbox.com/scl/fi/l981hncdjw64yatjrienz/Space-Invaders-USA.a26?rlkey=lr5ve65d06jcgdf10ewgr8khd&dl=0"
+          },
+          "type": "2600",
+          "title": "Space Invaders",
+          "description": "Space Invaders is a game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. \nThe aim is to defeat five rows of eleven aliens—some versions feature different numbers—that move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens' movement and the game's music both speed up.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-2600-images/master/Named_Titles/resized/Space%20Invaders%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-2600-images/master/Named_Snaps/output/Space%20Invaders%20(USA).png",
+          "backgroundPixelated": true,
+          "longTitle": "Space Invaders - A26oX  Library",
+          "added": 1713982376333
+        }
+      ]
+    }
+  ],
+  "longTitle": "PlayStation on Xbox NoHomebrew Edition (PSoX NH Edition)",
+  "description": "A library of PS1 Games for XBOX One/S/X. Excludes the default/homebrew games but includes some extra NES/N64 games."
+}
